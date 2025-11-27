@@ -1,0 +1,1 @@
+Normalized prompt: {json_prompt}
