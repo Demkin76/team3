@@ -70,8 +70,9 @@ Supports:
 
 ### Clone the repository
 ```bash
-git clone https://github.com/<your-org>/team3.git
+git clone https://github.com/Demkin76/team3.git
 cd team3
+pip install requirements.txt
 ```
 ---
 The project was originally made for 36 hours, so this version may not be ideally working.
